@@ -1,50 +1,113 @@
-<h1>Hi, I'm Jamia! <br/><a href="https://github.com/JamiaSymone">IT Student</a>, <a href="YOUR_LINKEDIN_URL">Aspiring Identity & Access Management (IAM) Analyst</a>, <a href="YOUR_PORTFOLIO_URL">Cybersecurity Professional</a></h1>
+<h1 align="center">Hi, I'm Jamia 👋</h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h3 align="center">
+Information Technology Student • Aspiring Identity & Access Management (IAM) Analyst • Cybersecurity Enthusiast
+</h3>
 
-- <b>Identity & Access Management (IAM)</b>
-  - [Active Directory User & Group Management Lab](YOUR_REPO_LINK)
-  - [Microsoft Entra ID Administration Lab](YOUR_REPO_LINK)
-  - [Role-Based Access Control (RBAC) Lab](YOUR_REPO_LINK)
-  - [Multi-Factor Authentication (MFA) Implementation](YOUR_REPO_LINK)
-  - [Conditional Access Policy Lab](YOUR_REPO_LINK)
+---
 
-- <b>Cybersecurity</b>
-  - [Apple AirTag Threat Modeling & Security Analysis](YOUR_REPO_LINK)
-  - [Ring Doorbell Secure Architecture Design](YOUR_REPO_LINK)
-  - [Vulnerability Assessment Lab](YOUR_REPO_LINK)
-  - [Wireshark Network Traffic Analysis](YOUR_REPO_LINK)
+## 👩‍💻 About Me
 
-- <b>Information Technology</b>
-  - [Windows Server Administration Lab](YOUR_REPO_LINK)
-  - [Active Directory Domain Services (AD DS)](YOUR_REPO_LINK)
-  - [DNS & DHCP Configuration Project](YOUR_REPO_LINK)
-  - [Help Desk Ticketing System Project](YOUR_REPO_LINK)
+- 🎓 B.S. Information Technology Student at Florida International University
+- 🔐 Interested in Identity & Access Management (IAM), Cybersecurity, Cloud Security, and IT Administration
+- 🌱 Currently studying for the Microsoft SC-300 Identity & Access Administrator certification
+- 📍 Open to Entry-Level IT, IAM, Help Desk, Cybersecurity, and Cloud Support opportunities
 
-<h2>🎓 Coursework</h2>
+---
 
-- Mobile & IoT Cybersecurity Policies and Practices
-- Applied Computer Networks
-- Database Systems
-- Software Engineering
-- Component-Based Software Development
-- Introduction to Microcomputers
-- American History
-- Asian Studies
+# 🚀 Featured Projects
 
-<h2>🏆 Certifications</h2>
+## 🔐 Cybersecurity
 
-- CompTIA Security+
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Identity and Access Administrator Associate (SC-300) *(In Progress)*
+### 🛡️ Wazuh SIEM Home Lab
+> Built a SIEM/XDR lab using Ubuntu, Windows 11, Oracle VirtualBox, and PowerShell. Configured a Wazuh Manager, enrolled a Windows endpoint, and verified centralized security monitoring.
 
-<h2>🌱 Currently Learning</h2>
+🔗 Repository: *(Coming Soon)*
 
-- Microsoft Entra ID (Azure AD)
-- Identity Governance & Administration (IGA)
-- Privileged Identity Management (PIM)
-- Conditional Access Policies
-- Identity Lifecycle Management
-- Zero Trust Security
+---
 
-<h2> 🤳 Connect with me:</h2>
+### 🔍 NVD Vulnerability Search Web Application
+> Developed a Flask web application that integrates with the National Vulnerability Database API, allowing users to search vulnerabilities by keyword, severity, and publication date.
+
+🔗 Repository: *(Coming Soon)*
+
+---
+
+### 📱 Smart Doorbell Security Assessment (Group Project)
+> Contributed to the secure architecture design and Business Impact Analysis of a smart doorbell IoT system, including risk assessment, incident response planning, and recovery strategies.
+
+🔗 Repository: *(Coming Soon)*
+
+---
+
+## 💻 IT Administration
+
+### 🖥️ Active Directory Home Lab
+> Built a Windows Server Active Directory lab using Oracle VirtualBox. Configured Active Directory Domain Services and practiced user and domain administration.
+
+🔗 Repository: *(Coming Soon)*
+
+---
+
+### 🗄️ SQL Server Database Administration Labs
+> Completed SQL Server Management Studio labs involving database restoration, table creation, relational constraints, indexing, and T-SQL.
+
+🔗 Repository: *(Coming Soon)*
+
+---
+
+# 🏆 Certifications
+
+- ✅ CompTIA Security+
+- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
+- 📚 Microsoft Certified: Identity & Access Administrator Associate (SC-300) *(In Progress)*
+
+---
+
+# 🛠️ Technical Skills
+
+**Operating Systems**
+- Windows 10/11
+- Windows Server
+- Ubuntu Linux
+
+**Identity & Security**
+- Active Directory
+- Microsoft Entra ID (Learning)
+- Identity & Access Management
+- Wazuh SIEM
+- Incident Response
+- Business Impact Analysis
+
+**Programming**
+- Python
+- Flask
+- HTML
+- CSS
+- SQL
+
+**Tools**
+- Oracle VirtualBox
+- Git
+- GitHub
+- SQL Server Management Studio
+- VS Code
+- PowerShell
+
+---
+
+# 🌱 Currently Learning
+
+- Microsoft Entra ID
+- Identity Governance
+- Conditional Access
+- Privileged Identity Management
+- Zero Trust
+- Azure Administration
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 💻 GitHub: https://github.com/JamiaSymone
