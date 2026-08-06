@@ -22,7 +22,7 @@ Information Technology Student • Aspiring Identity & Access Management (IAM) A
 ### 🛡️ Wazuh SIEM Home Lab
 > Built a SIEM/XDR lab using Ubuntu, Windows 11, Oracle VirtualBox, and PowerShell. Configured a Wazuh Manager, enrolled a Windows endpoint, and verified centralized security monitoring.
 
-🔗 Repository: *(Coming Soon)*
+🔗 Repository: *(https://github.com/JamiaSymone/Wazuh-SIEM-Home-Lab.git)*
 
 ---
 
