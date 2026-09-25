@@ -55,7 +55,7 @@ Developed a Flask web application that integrates with the National Vulnerabilit
 
 Built an on-premises Active Directory environment in VirtualBox using Windows Server 2025. Configured a domain controller, DNS, and DHCP, designed an OU structure with departmental security groups, and enforced password and account-lockout policies through Group Policy.
 
-**🔗 Repository:** *Add your GitHub repo link*
+**🔗 Repository:** https://github.com/JamiaSymone/Active-Directory-Home-Lab
 
 <br>
 
@@ -65,7 +65,7 @@ Simulated the end-to-end ITSM ticket lifecycle in Spiceworks Cloud Help Desk, in
 
 Documented customer-facing resolution notes and internal root-cause information for technician handoff.
 
-**🔗 Repository:** *Add your GitHub repo link*
+**🔗 Repository:** https://github.com/JamiaSymone/IT-Support-Ticketing-System-Lab-Spiceworks
 
 <br>
 
