@@ -133,3 +133,6 @@ Component-Based Software Development • Information Retrieval • Intermediate 
 ---
 
 # 💌 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/jamia-b-a9114b244/
+GitHub: https://github.com/JamiaSymone
