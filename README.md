@@ -27,7 +27,7 @@ Administered a simulated 4-department Microsoft Entra ID tenant for a fictional 
 
 Configured Conditional Access policies for MFA enforcement and untrusted-location blocking, implemented an Administrative Unit for delegated administration, and documented the Joiner/Mover/Leaver identity lifecycle.
 
-**🔗 Repository:** *Add your GitHub repo link*
+**🔗 Repository:** https://github.com/JamiaSymone/AuraTech-IAM-Lab-Microsoft-Entra-ID
 
 <br>
 
